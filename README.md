@@ -16,7 +16,7 @@
 Esse probleto foi construido durante a semana do meio ambiente e na Next Level Week, uma jornada do desenvolvedor criada pela Rocketseat para distribuída pela Rocketseat.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/ecoleta.png" />
+    <img alt="Example" title="Example" src="ecoleta.png" />
 </h1>
 
 ## Tecnologias
