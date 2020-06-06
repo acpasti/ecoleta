@@ -19,7 +19,7 @@ const users =  [
 ];
 
 app.get('/users', (request, response) => {
-    const search = String(request.query.search); 
+    const search = String(request.query.search);
     const filteredUsers = search ? users.filter(user => user.includes(search)) : users;
     response.json(filteredUsers);
 });
