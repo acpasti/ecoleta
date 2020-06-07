@@ -20,10 +20,17 @@ Esse probleto foi construido durante a semana do meio ambiente e na Next Level W
 </h1>
 
 ## Tecnologias
-- [Node.js](https://nodejs.org/en/)
-- [ReactJS](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+### Frontend
+#### Web
+   [ReactJS](https://reactjs.org/)
+   [TypeScript](https://www.typescriptlang.org/)
+#### Mobile
+   [React Native](https://reactnative.dev/)
+   [TypeScript](https://www.typescriptlang.org/)
+      
+### Backend
+   [Node.js](https://nodejs.org/en/)
+   [TypeScript](https://www.typescriptlang.org/)
 
 ## Executando a aplicação
 
